@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\admin\documents\visual studio 2017\projects\caesar\caesar\main.cpp(45): warning C4305: =: усечение из "int" в "char"
+c:\users\admin\documents\visual studio 2017\projects\caesar\caesar\main.cpp(45): warning C4309: =: усечение константного значения
+  caesar.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2017\Projects\caesar\Debug\caesar.exe
